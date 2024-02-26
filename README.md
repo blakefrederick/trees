@@ -10,9 +10,10 @@ By request:
 
 <img width="777" alt="A bar graph showing the top 25 most prevalent tree species in Vancouver. Number 1 is Kwanzaan flowering cherry." src="https://github.com/blakefrederick/trees/assets/4672139/5d723d26-a91a-4b4a-973b-f4d8fe794a9c">
 <figure>
-<img width="777" alt="An array of 4 tree species, each segment contains 3 images. Top left: Kwanzaan flowering cherry, Top right: Norway maple, Bottom left: Crimean linden, Bottom right: Pyramidal European hornbeam" src="https://github.com/blakefrederick/trees/assets/4672139/29efe7f3-4039-4569-a5c2-b2f958f8c5c5">
+<img width="777" alt="An array of 4 tree species, each segment contains 3 images. Top left: Kwanzaan flowering cherry, Top right: Pissard plum, Bottom left: Norway maple, Bottom right: Crimean linden" src="https://github.com/blakefrederick/trees/assets/4672139/29efe7f3-4039-4569-a5c2-b2f958f8c5c5">
 <br/>
-  <figcaption><small>Top left: Kwanzaan flowering cherry, Top right: Norway maple, Bottom left: Crimean linden, Bottom right: Pyramidal European hornbeam</small></figcaption>
+  <figcaption><small>Top left: Kwanzaan flowering cherry, Top right: Pissard plum
+    <br/>Bottom left: Norway maple, Bottom right: Crimean linden</small></figcaption>
 </figure>
 <br/>
 <br/>
