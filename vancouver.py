@@ -15,7 +15,7 @@ plt.show()
 
 # Trees by Species
 species_tree_count = data_frame['COMMON_NAME'].value_counts().head(25)
-species_tree_count.plot(kind='bar', figsize=(15, 8), title='Top 25 Tree Species')
+species_tree_count.plot(kind='bar', figsize=(15, 8), color='forestgreen', title='Top 25 Tree Species')
 plt.xlabel('Species')
 plt.ylabel('Number of Trees')
 plt.xticks(rotation=75)
